@@ -101,9 +101,31 @@ flutter run
 
 ---
 
-# 📸 Screenshots
 
-> Screenshots will be added soon.
+
+# 📸 Application Screenshots
+
+## 🏠 Home Screen (Top)
+
+![Home Screen Top](assets/screenshots/homepage1.jpg)
+
+---
+
+## 🏠 Home Screen (Bottom)
+
+![Home Screen Bottom](assets/screenshots/homepage2.jpg)
+
+---
+
+## 🍔 Menu Screen
+
+![Menu Screen](assets/screenshots/menupage.jpg)
+
+---
+
+## 👤 Profile Screen
+
+![Profile Screen](assets/screenshots/profilepage.jpg)
 
 ---
 
